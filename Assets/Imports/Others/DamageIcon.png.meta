@@ -1,0 +1,1104 @@
+fileFormatVersion: 2
+guid: 345df09919606e645b5bd10815a94134
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8086850440826228858
+    second: DamageIcon_0
+  - first:
+      213: 2547285768176825320
+    second: DamageIcon_1
+  - first:
+      213: -5466630841650084883
+    second: DamageIcon_2
+  - first:
+      213: 45356311408300870
+    second: DamageIcon_3
+  - first:
+      213: -8255574553091402023
+    second: DamageIcon_4
+  - first:
+      213: 3774741739530684472
+    second: DamageIcon_5
+  - first:
+      213: -6147562878899696773
+    second: DamageIcon_6
+  - first:
+      213: 3156806026559693460
+    second: DamageIcon_7
+  - first:
+      213: 8170273983239429307
+    second: DamageIcon_8
+  - first:
+      213: 7758868453350460886
+    second: DamageIcon_9
+  - first:
+      213: 1716341554730792949
+    second: DamageIcon_10
+  - first:
+      213: 2438599640200885380
+    second: DamageIcon_11
+  - first:
+      213: 7346251454000309843
+    second: DamageIcon_12
+  - first:
+      213: 1816019571077721516
+    second: DamageIcon_13
+  - first:
+      213: 2855618961567989184
+    second: DamageIcon_14
+  - first:
+      213: 6002955555879905012
+    second: DamageIcon_15
+  - first:
+      213: -4108282356440587713
+    second: DamageIcon_16
+  - first:
+      213: 2970193109537265145
+    second: DamageIcon_17
+  - first:
+      213: -4005605955964819449
+    second: DamageIcon_18
+  - first:
+      213: 6592995544407989032
+    second: DamageIcon_19
+  - first:
+      213: -2744589341631329326
+    second: DamageIcon_20
+  - first:
+      213: 921933946923112400
+    second: DamageIcon_21
+  - first:
+      213: -4788294621639697680
+    second: DamageIcon_22
+  - first:
+      213: 8807559871918194366
+    second: DamageIcon_23
+  - first:
+      213: 1735007857903818022
+    second: DamageIcon_24
+  - first:
+      213: -3955982415666417065
+    second: DamageIcon_25
+  - first:
+      213: -7937739308740067533
+    second: DamageIcon_26
+  - first:
+      213: -8122067912110479391
+    second: DamageIcon_27
+  - first:
+      213: -5091967708697949280
+    second: DamageIcon_28
+  - first:
+      213: -608894194652646238
+    second: DamageIcon_29
+  - first:
+      213: 4980687334650934420
+    second: DamageIcon_30
+  - first:
+      213: -6445615680112257314
+    second: DamageIcon_31
+  - first:
+      213: 87613819435370302
+    second: DamageIcon_32
+  - first:
+      213: 3585871250596944207
+    second: DamageIcon_33
+  - first:
+      213: -8025860760860649082
+    second: DamageIcon_34
+  - first:
+      213: 4421615482350221747
+    second: DamageIcon_35
+  - first:
+      213: 5517493795690771486
+    second: DamageIcon_36
+  - first:
+      213: -8497776349291934832
+    second: DamageIcon_37
+  - first:
+      213: 2816070575735274699
+    second: DamageIcon_38
+  - first:
+      213: -9110932770664045022
+    second: DamageIcon_39
+  - first:
+      213: -3942322279187312821
+    second: DamageIcon_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DamageIcon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f67dabe5cb5cf80800000000000000
+      internalID: -8086850440826228858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e37699f8e6c95320800000000000000
+      internalID: 2547285768176825320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de380458630a224b0800000000000000
+      internalID: -5466630841650084883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64350dd235321a000800000000000000
+      internalID: 45356311408300870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d69b321fae4e6d80800000000000000
+      internalID: -8255574553091402023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8380197dc93926430800000000000000
+      internalID: 3774741739530684472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b4ec002287faaa0800000000000000
+      internalID: -6147562878899696773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49227ed0b5a3fcb20800000000000000
+      internalID: 3156806026559693460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc1a9856e4a26170800000000000000
+      internalID: 8170273983239429307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd40f400c90dab60800000000000000
+      internalID: 7758868453350460886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f778faec8ba1d710800000000000000
+      internalID: 1716341554730792949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484b197d375a7d120800000000000000
+      internalID: 2438599640200885380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356a26a76c023f560800000000000000
+      internalID: 7346251454000309843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadae3f9d2cc33910800000000000000
+      internalID: 1816019571077721516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd312ad05231a720800000000000000
+      internalID: 2855618961567989184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6eda6e548ce4350800000000000000
+      internalID: 6002955555879905012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32aa53a6f27cf6c0800000000000000
+      internalID: -4108282356440587713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5184875ee383920800000000000000
+      internalID: 2970193109537265145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708278c0b9a3968c0800000000000000
+      internalID: -4005605955964819449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bdb2634860f7b50800000000000000
+      internalID: 6592995544407989032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbcdb5098249e9d0800000000000000
+      internalID: -2744589341631329326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7d9b44a0e5bcc00800000000000000
+      internalID: 921933946923112400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa904d396f8c8db0800000000000000
+      internalID: -4788294621639697680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe3baff90dba3a70800000000000000
+      internalID: 8807559871918194366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6255edc447cf31810800000000000000
+      internalID: 1735007857903818022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752f280e3f68919c0800000000000000
+      internalID: -3955982415666417065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fb4e6972c77d190800000000000000
+      internalID: -7937739308740067533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e76e09344e984f80800000000000000
+      internalID: -8122067912110479391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab8c4be852b559b0800000000000000
+      internalID: -5091967708697949280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a47eedb4f5cc87f0800000000000000
+      internalID: -608894194652646238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494f727fdb4fe1540800000000000000
+      internalID: 4980687334650934420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6983470b29c86a0800000000000000
+      internalID: -6445615680112257314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e374cd8fd44473100800000000000000
+      internalID: 87613819435370302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49dd1657e293c130800000000000000
+      internalID: 3585871250596944207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689972c292a6e9090800000000000000
+      internalID: -8025860760860649082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b93adebadbbc5d30800000000000000
+      internalID: 4421615482350221747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_36
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14f19ecf53129c40800000000000000
+      internalID: 5517493795690771486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b0db7fe65d11a80800000000000000
+      internalID: -8497776349291934832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_38
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc7129b441b41720800000000000000
+      internalID: 2816070575735274699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226aa18bae67f8180800000000000000
+      internalID: -9110932770664045022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIcon_40
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0.75
+        width: 32
+        height: 32.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f8eee36ce0a49c0800000000000000
+      internalID: -3942322279187312821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

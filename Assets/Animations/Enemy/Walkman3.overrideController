@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Walkman3
+  m_Controller: {fileID: 9100000, guid: 0c8a97f17f0d54148921216381daba18, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d711c28dec102f443ace9629a76d9d82, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7270c260e997bd144b87397579babaae, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2e94731f72e5e634ebef4ef7d1b57b1c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 198a6a71cbc1b794089c7e5e2092923f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 60eb2a439a0b03e488cb770c12abef5b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 85db3cf11a038ab488ce0da688bff2d8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4706247eed5399b44baf15d1d04d7fc4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d9c6f89facb4e5b489f7131d3d9bd3b3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fb7c0b067dc830c4499fa110b3bddab6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8ea87151957f9504d879d902e595d875, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d925a1c1fc0ab174594205d399e74727, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: aeb79704dff38584998ce1e4c2098ec7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b5b474693fedee3478f7ffe71a956051, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1bc92f1a8c81904478e6cd1836c22eb4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6cb49c8465380ea4eae5eb7411462e4a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e5a9ab1ce3a205c4fadc8ce69929b664, type: 2}

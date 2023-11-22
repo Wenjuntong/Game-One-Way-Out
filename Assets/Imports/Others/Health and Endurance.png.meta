@@ -1,0 +1,5880 @@
+fileFormatVersion: 2
+guid: 58726496cb27357489bd69f60c5b5151
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6188685136832927575
+    second: Health and Endurance_0
+  - first:
+      213: 3465987914610254389
+    second: Health and Endurance_1
+  - first:
+      213: -7487672943856048657
+    second: Health and Endurance_2
+  - first:
+      213: -2402467427243440006
+    second: Health and Endurance_3
+  - first:
+      213: -5745339587086865484
+    second: Health and Endurance_4
+  - first:
+      213: -2921841906774033719
+    second: Health and Endurance_5
+  - first:
+      213: -2781388104728867832
+    second: Health and Endurance_6
+  - first:
+      213: -3189924702589509307
+    second: Health and Endurance_7
+  - first:
+      213: 244042869005593973
+    second: Health and Endurance_8
+  - first:
+      213: -3427482859483544962
+    second: Health and Endurance_9
+  - first:
+      213: -7978333834133613923
+    second: Health and Endurance_10
+  - first:
+      213: -4681976705825081008
+    second: Health and Endurance_11
+  - first:
+      213: 4375806438217321307
+    second: Health and Endurance_12
+  - first:
+      213: 4641630401274246088
+    second: Health and Endurance_13
+  - first:
+      213: -4350135329622017655
+    second: Health and Endurance_14
+  - first:
+      213: 4871685615223736937
+    second: Health and Endurance_15
+  - first:
+      213: -7034241934958610913
+    second: Health and Endurance_16
+  - first:
+      213: 3254508622094673687
+    second: Health and Endurance_17
+  - first:
+      213: -3050952904750515158
+    second: Health and Endurance_18
+  - first:
+      213: 8577046948782450052
+    second: Health and Endurance_19
+  - first:
+      213: 331305601302003327
+    second: Health and Endurance_20
+  - first:
+      213: -6770395668617217756
+    second: Health and Endurance_21
+  - first:
+      213: 7742238205132737981
+    second: Health and Endurance_22
+  - first:
+      213: -4455496596332609713
+    second: Health and Endurance_23
+  - first:
+      213: -678758580365179184
+    second: Health and Endurance_24
+  - first:
+      213: 3561131271269195262
+    second: Health and Endurance_25
+  - first:
+      213: -5741247263100653267
+    second: Health and Endurance_26
+  - first:
+      213: 3097688080793084176
+    second: Health and Endurance_27
+  - first:
+      213: -3309981127893866638
+    second: Health and Endurance_28
+  - first:
+      213: -17420698072595202
+    second: Health and Endurance_29
+  - first:
+      213: 6400922769608984395
+    second: Health and Endurance_30
+  - first:
+      213: 7408987612154204355
+    second: Health and Endurance_31
+  - first:
+      213: -1636861721678360701
+    second: Health and Endurance_32
+  - first:
+      213: -164174541133840095
+    second: Health and Endurance_33
+  - first:
+      213: 9011513880089630297
+    second: Health and Endurance_34
+  - first:
+      213: -4072526183272618096
+    second: Health and Endurance_35
+  - first:
+      213: 7710337526782268552
+    second: Health and Endurance_36
+  - first:
+      213: -7256979054808763254
+    second: Health and Endurance_37
+  - first:
+      213: 4611037999931414137
+    second: Health and Endurance_38
+  - first:
+      213: -5529189103760224323
+    second: Health and Endurance_39
+  - first:
+      213: -8977187819008114503
+    second: Health and Endurance_40
+  - first:
+      213: -3632988995078365378
+    second: Health and Endurance_41
+  - first:
+      213: 7943955782084049296
+    second: Health and Endurance_42
+  - first:
+      213: -5641239426263891702
+    second: Health and Endurance_43
+  - first:
+      213: -59915761412585248
+    second: Health and Endurance_44
+  - first:
+      213: 2353552833779883582
+    second: Health and Endurance_45
+  - first:
+      213: 4263060656556428994
+    second: Health and Endurance_46
+  - first:
+      213: 3783447227412197226
+    second: Health and Endurance_47
+  - first:
+      213: -2964568448438408270
+    second: Health and Endurance_48
+  - first:
+      213: 5198480100766617087
+    second: Health and Endurance_49
+  - first:
+      213: -7753445196672227920
+    second: Health and Endurance_50
+  - first:
+      213: -4190636410007593505
+    second: Health and Endurance_51
+  - first:
+      213: 3717838314880436012
+    second: Health and Endurance_52
+  - first:
+      213: -9187472790887173017
+    second: Health and Endurance_53
+  - first:
+      213: -7690227325550174931
+    second: Health and Endurance_54
+  - first:
+      213: -3552005800947463964
+    second: Health and Endurance_55
+  - first:
+      213: -1414202490933940274
+    second: Health and Endurance_56
+  - first:
+      213: 6000144408509854969
+    second: Health and Endurance_57
+  - first:
+      213: -8465266335131283757
+    second: Health and Endurance_58
+  - first:
+      213: -3471503069248618997
+    second: Health and Endurance_59
+  - first:
+      213: -4181039190913528250
+    second: Health and Endurance_60
+  - first:
+      213: 5594122725213364655
+    second: Health and Endurance_61
+  - first:
+      213: 6360253369043999909
+    second: Health and Endurance_62
+  - first:
+      213: -4675113743581146289
+    second: Health and Endurance_63
+  - first:
+      213: 9214829560393626308
+    second: Health and Endurance_64
+  - first:
+      213: 3127344351941128067
+    second: Health and Endurance_65
+  - first:
+      213: 1636660665007019347
+    second: Health and Endurance_66
+  - first:
+      213: -8547442134485091223
+    second: Health and Endurance_67
+  - first:
+      213: 1628872406611606850
+    second: Health and Endurance_68
+  - first:
+      213: -3578201825041786741
+    second: Health and Endurance_69
+  - first:
+      213: -258510689464709391
+    second: Health and Endurance_70
+  - first:
+      213: -1624665131423544272
+    second: Health and Endurance_71
+  - first:
+      213: -1089468256008498318
+    second: Health and Endurance_72
+  - first:
+      213: -6368865681053186395
+    second: Health and Endurance_73
+  - first:
+      213: 9021540497159054468
+    second: Health and Endurance_74
+  - first:
+      213: -1046384937822332145
+    second: Health and Endurance_75
+  - first:
+      213: 3452485603915390537
+    second: Health and Endurance_76
+  - first:
+      213: -8616167552050412573
+    second: Health and Endurance_77
+  - first:
+      213: 2269233981229087786
+    second: Health and Endurance_78
+  - first:
+      213: 8473771134057631730
+    second: Health and Endurance_79
+  - first:
+      213: -1597968466493105387
+    second: Health and Endurance_80
+  - first:
+      213: -834202126164175112
+    second: Health and Endurance_81
+  - first:
+      213: -4405190631019394338
+    second: Health and Endurance_82
+  - first:
+      213: 8055424559596034721
+    second: Health and Endurance_83
+  - first:
+      213: 4658067270202067214
+    second: Health and Endurance_84
+  - first:
+      213: -2278477647341387171
+    second: Health and Endurance_85
+  - first:
+      213: 2108997416285291667
+    second: Health and Endurance_86
+  - first:
+      213: -7742160239348983691
+    second: Health and Endurance_87
+  - first:
+      213: -1296834962200578478
+    second: Health and Endurance_88
+  - first:
+      213: 6479011327451283863
+    second: Health and Endurance_89
+  - first:
+      213: 1117589268236439287
+    second: Health and Endurance_90
+  - first:
+      213: -3398257700119679958
+    second: Health and Endurance_91
+  - first:
+      213: 3964789772089784906
+    second: Health and Endurance_92
+  - first:
+      213: -8791076342919402009
+    second: Health and Endurance_93
+  - first:
+      213: 7791696992769220716
+    second: Health and Endurance_94
+  - first:
+      213: -1704626483299429773
+    second: Health and Endurance_95
+  - first:
+      213: 8556184625600301333
+    second: Health and Endurance_96
+  - first:
+      213: -723326712583182605
+    second: Health and Endurance_97
+  - first:
+      213: 2191594907207513886
+    second: Health and Endurance_98
+  - first:
+      213: 904534159971812961
+    second: Health and Endurance_99
+  - first:
+      213: -7388596441838647107
+    second: Health and Endurance_100
+  - first:
+      213: 4300725901240836957
+    second: Health and Endurance_101
+  - first:
+      213: 5667775297749224059
+    second: Health and Endurance_102
+  - first:
+      213: -3260798589772013779
+    second: Health and Endurance_103
+  - first:
+      213: 5477388803401109525
+    second: Health and Endurance_104
+  - first:
+      213: -1683348433127832286
+    second: Health and Endurance_105
+  - first:
+      213: 4158459019749054148
+    second: Health and Endurance_106
+  - first:
+      213: 3562019151119659834
+    second: Health and Endurance_107
+  - first:
+      213: -976747844502143056
+    second: Health and Endurance_108
+  - first:
+      213: -1738007664200090642
+    second: Health and Endurance_109
+  - first:
+      213: -7655715664219397864
+    second: Health and Endurance_110
+  - first:
+      213: -4217089775712153661
+    second: Health and Endurance_111
+  - first:
+      213: 1221679220758880994
+    second: Health and Endurance_112
+  - first:
+      213: 2254752762746148284
+    second: Health and Endurance_113
+  - first:
+      213: -3091782560052746272
+    second: Health and Endurance_114
+  - first:
+      213: 7769211013485508071
+    second: Health and Endurance_115
+  - first:
+      213: -6683114889306421181
+    second: Health and Endurance_116
+  - first:
+      213: -2032658687535823118
+    second: Health and Endurance_117
+  - first:
+      213: -3488570070276559224
+    second: Health and Endurance_118
+  - first:
+      213: -9055744825215423887
+    second: Health and Endurance_119
+  - first:
+      213: 7572010914223751763
+    second: Health and Endurance_120
+  - first:
+      213: -7796341094827043892
+    second: Health and Endurance_121
+  - first:
+      213: 65449809095918866
+    second: Health and Endurance_122
+  - first:
+      213: -6093889177879487888
+    second: Health and Endurance_123
+  - first:
+      213: 6238057778512783921
+    second: Health and Endurance_124
+  - first:
+      213: -1975495213658288188
+    second: Health and Endurance_125
+  - first:
+      213: -6181151556781564822
+    second: Health and Endurance_126
+  - first:
+      213: 2435580652624556819
+    second: Health and Endurance_127
+  - first:
+      213: 2354694286673656713
+    second: Health and Endurance_128
+  - first:
+      213: -7146246763007411767
+    second: Health and Endurance_129
+  - first:
+      213: -1814887748794195450
+    second: Health and Endurance_130
+  - first:
+      213: -4735799483901026669
+    second: Health and Endurance_131
+  - first:
+      213: -1422904306406716906
+    second: Health and Endurance_132
+  - first:
+      213: 267335717188780845
+    second: Health and Endurance_133
+  - first:
+      213: 2412598080335553491
+    second: Health and Endurance_134
+  - first:
+      213: 8012835054159975083
+    second: Health and Endurance_135
+  - first:
+      213: 2666353650238121521
+    second: Health and Endurance_136
+  - first:
+      213: -6908524628089644712
+    second: Health and Endurance_137
+  - first:
+      213: 7431683707601538453
+    second: Health and Endurance_138
+  - first:
+      213: 6858820346568499577
+    second: Health and Endurance_139
+  - first:
+      213: 5313033240026489812
+    second: Health and Endurance_140
+  - first:
+      213: 4875790702843012081
+    second: Health and Endurance_141
+  - first:
+      213: -3220829066330984550
+    second: Health and Endurance_142
+  - first:
+      213: 5761045835076179785
+    second: Health and Endurance_143
+  - first:
+      213: 6524708304097392101
+    second: Health and Endurance_144
+  - first:
+      213: 6186789080490683007
+    second: Health and Endurance_145
+  - first:
+      213: 5101418515176766411
+    second: Health and Endurance_146
+  - first:
+      213: -7005244186977857450
+    second: Health and Endurance_147
+  - first:
+      213: -8786100254057591054
+    second: Health and Endurance_148
+  - first:
+      213: -5215119628072240694
+    second: Health and Endurance_149
+  - first:
+      213: -1144467070131130694
+    second: Health and Endurance_150
+  - first:
+      213: -5667671242445405188
+    second: Health and Endurance_151
+  - first:
+      213: 5580765480074210206
+    second: Health and Endurance_152
+  - first:
+      213: 6027707060609899077
+    second: Health and Endurance_153
+  - first:
+      213: -5599577408228845680
+    second: Health and Endurance_154
+  - first:
+      213: 350362537572727317
+    second: Health and Endurance_155
+  - first:
+      213: 3355098814772961702
+    second: Health and Endurance_156
+  - first:
+      213: 2199336855055805295
+    second: Health and Endurance_157
+  - first:
+      213: -4608283941389970
+    second: Health and Endurance_158
+  - first:
+      213: 2188210780220886585
+    second: Health and Endurance_159
+  - first:
+      213: 7936926423935927929
+    second: Health and Endurance_160
+  - first:
+      213: -1170660711965646380
+    second: Health and Endurance_161
+  - first:
+      213: -6835111426852680250
+    second: Health and Endurance_162
+  - first:
+      213: 6689257516489053810
+    second: Health and Endurance_163
+  - first:
+      213: 2386262396406683257
+    second: Health and Endurance_164
+  - first:
+      213: -1703492694340024125
+    second: Health and Endurance_165
+  - first:
+      213: -6843026553581926048
+    second: Health and Endurance_166
+  - first:
+      213: -5952114676213624655
+    second: Health and Endurance_167
+  - first:
+      213: 2942610591739034889
+    second: Health and Endurance_168
+  - first:
+      213: -1403404248150136091
+    second: Health and Endurance_169
+  - first:
+      213: -6290723083836134655
+    second: Health and Endurance_170
+  - first:
+      213: -118822007742196762
+    second: Health and Endurance_171
+  - first:
+      213: 6845678856965808074
+    second: Health and Endurance_172
+  - first:
+      213: 3243104463715365184
+    second: Health and Endurance_173
+  - first:
+      213: -1408966339424240415
+    second: Health and Endurance_174
+  - first:
+      213: -8246061974931796170
+    second: Health and Endurance_175
+  - first:
+      213: 7207139813611562314
+    second: Health and Endurance_176
+  - first:
+      213: -2250938128132536561
+    second: Health and Endurance_177
+  - first:
+      213: 8866720640188827307
+    second: Health and Endurance_178
+  - first:
+      213: 3705215694096353651
+    second: Health and Endurance_179
+  - first:
+      213: -2506778770843411587
+    second: Health and Endurance_180
+  - first:
+      213: -5038309417385901087
+    second: Health and Endurance_181
+  - first:
+      213: -5341707257196785497
+    second: Health and Endurance_182
+  - first:
+      213: -3801115755292742576
+    second: Health and Endurance_183
+  - first:
+      213: 7618519160780654247
+    second: Health and Endurance_184
+  - first:
+      213: -936047803970237149
+    second: Health and Endurance_185
+  - first:
+      213: -3544751163407371625
+    second: Health and Endurance_186
+  - first:
+      213: 6301738042079734610
+    second: Health and Endurance_187
+  - first:
+      213: 7413795565716260881
+    second: Health and Endurance_188
+  - first:
+      213: 7720270506515152236
+    second: Health and Endurance_189
+  - first:
+      213: -8194362700613409914
+    second: Health and Endurance_190
+  - first:
+      213: 1350620211033292108
+    second: Health and Endurance_191
+  - first:
+      213: 3616901241371834631
+    second: Health and Endurance_192
+  - first:
+      213: -9033322601405335144
+    second: Health and Endurance_193
+  - first:
+      213: 4393986084070458583
+    second: Health and Endurance_194
+  - first:
+      213: -8978091362098668861
+    second: Health and Endurance_195
+  - first:
+      213: -7492861033491054653
+    second: Health and Endurance_196
+  - first:
+      213: -955495738645283751
+    second: Health and Endurance_197
+  - first:
+      213: 1910115396545012243
+    second: Health and Endurance_198
+  - first:
+      213: -6603096341715597287
+    second: Health and Endurance_199
+  - first:
+      213: 8403504203866319521
+    second: Health and Endurance_200
+  - first:
+      213: -3382434381084998851
+    second: Health and Endurance_201
+  - first:
+      213: -3795138920607603193
+    second: Health and Endurance_202
+  - first:
+      213: 8518288695426835388
+    second: Health and Endurance_203
+  - first:
+      213: -986584893858003034
+    second: Health and Endurance_204
+  - first:
+      213: 8421763644035196491
+    second: Health and Endurance_205
+  - first:
+      213: 1181383280590227303
+    second: Health and Endurance_206
+  - first:
+      213: -2922158986885495899
+    second: Health and Endurance_207
+  - first:
+      213: 5434128455452839770
+    second: Health and Endurance_208
+  - first:
+      213: 2187707103050998993
+    second: Health and Endurance_209
+  - first:
+      213: 6317156460893749479
+    second: Health and Endurance_210
+  - first:
+      213: 2724605405726569965
+    second: Health and Endurance_211
+  - first:
+      213: -8989909506898836242
+    second: Health and Endurance_212
+  - first:
+      213: 5361779467076218179
+    second: Health and Endurance_213
+  - first:
+      213: 2623700003829743291
+    second: Health and Endurance_214
+  - first:
+      213: -1787401317338306141
+    second: Health and Endurance_215
+  - first:
+      213: 7015046135952679868
+    second: Health and Endurance_216
+  - first:
+      213: -8349813541561392394
+    second: Health and Endurance_217
+  - first:
+      213: -3638814328619319689
+    second: Health and Endurance_218
+  - first:
+      213: 2053127235301409984
+    second: Health and Endurance_219
+  - first:
+      213: 1209210229616767741
+    second: Health and Endurance_220
+  - first:
+      213: 8789421448647497868
+    second: Health and Endurance_221
+  - first:
+      213: -6351478948199030063
+    second: Health and Endurance_222
+  - first:
+      213: -1341843153242526770
+    second: Health and Endurance_223
+  - first:
+      213: -3125392032008800583
+    second: Health and Endurance_224
+  - first:
+      213: -7798512510702680797
+    second: Health and Endurance_225
+  - first:
+      213: -3580064432434865499
+    second: Health and Endurance_226
+  - first:
+      213: -2538089623839463248
+    second: Health and Endurance_227
+  - first:
+      213: -8479713034627039320
+    second: Health and Endurance_228
+  - first:
+      213: 5109924070182280770
+    second: Health and Endurance_229
+  - first:
+      213: 3789958493161904164
+    second: Health and Endurance_230
+  - first:
+      213: 8373097873767015720
+    second: Health and Endurance_231
+  - first:
+      213: -7147009350715274672
+    second: Health and Endurance_232
+  - first:
+      213: 6597130019456051029
+    second: Health and Endurance_233
+  - first:
+      213: -3515798819148788073
+    second: Health and Endurance_234
+  - first:
+      213: -2638403071361120581
+    second: Health and Endurance_235
+  - first:
+      213: 6929877816013378628
+    second: Health and Endurance_236
+  - first:
+      213: -3043500322793705956
+    second: Health and Endurance_237
+  - first:
+      213: 1080780121941342125
+    second: Health and Endurance_238
+  - first:
+      213: 4554376357854088167
+    second: Health and Endurance_239
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Health and Endurance_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 610.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7579aa7c750a2e550800000000000000
+      internalID: 6188685136832927575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 610.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532242e05a9a91030800000000000000
+      internalID: 3465987914610254389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 610.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe528230121761890800000000000000
+      internalID: -7487672943856048657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 610.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7845be8a98b8aed0800000000000000
+      internalID: -2402467427243440006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 610.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bba2bde5147440b0800000000000000
+      internalID: -5745339587086865484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 610.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca32e034488377d0800000000000000
+      internalID: -2921841906774033719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 610.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c832351468669d0800000000000000
+      internalID: -2781388104728867832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 610.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541a8e9426c1bb3d0800000000000000
+      internalID: -3189924702589509307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 610.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dab0542b3036300800000000000000
+      internalID: 244042869005593973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 610.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e724eb6bf722f60d0800000000000000
+      internalID: -3427482859483544962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 610.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d925cfc16a3474190800000000000000
+      internalID: -7978333834133613923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 610.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05974a20ef6460fb0800000000000000
+      internalID: -4681976705825081008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b8fc385ccf9bc30800000000000000
+      internalID: 4375806438217321307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 578.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3fa9ee1426a6040800000000000000
+      internalID: 4641630401274246088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 578.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989b00937f631a3c0800000000000000
+      internalID: -4350135329622017655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 578.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a8ac87144bb9340800000000000000
+      internalID: 4871685615223736937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 578.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16b2aaaa3a516e90800000000000000
+      internalID: -7034241934958610913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 578.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717266249565a2d20800000000000000
+      internalID: 3254508622094673687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 578.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c36ed6f76d8a5d0800000000000000
+      internalID: -3050952904750515158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 578.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485a60cb1cac70770800000000000000
+      internalID: 8577046948782450052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 578.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ef3b560b8099400800000000000000
+      internalID: 331305601302003327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 578.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4293a3fa209ba02a0800000000000000
+      internalID: -6770395668617217756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 578.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd056f90a4f17b60800000000000000
+      internalID: 7742238205132737981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 578.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ff1ada375ea22c0800000000000000
+      internalID: -4455496596332609713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6c519daa09496f0800000000000000
+      internalID: -678758580365179184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 546.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd1986060eab6130800000000000000
+      internalID: 3561131271269195262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 546.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21b33b580ef250b0800000000000000
+      internalID: -5741247263100653267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 546.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01122a0b5e23dfa20800000000000000
+      internalID: 3097688080793084176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 546.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277a3a283b59012d0800000000000000
+      internalID: -3309981127893866638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 546.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4c4a7a7fb12cff0800000000000000
+      internalID: -17420698072595202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 546.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47c04d6855a4d850800000000000000
+      internalID: 6400922769608984395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 546.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c098bf8af202d660800000000000000
+      internalID: 7408987612154204355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 546.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f4de4cfe2b849e0800000000000000
+      internalID: -1636861721678360701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 546.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1210e8aef1cb8bdf0800000000000000
+      internalID: -164174541133840095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 546.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9569e3ff0245f0d70800000000000000
+      internalID: 9011513880089630297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 546.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097ee83730b7b77c0800000000000000
+      internalID: -4072526183272618096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8849836212f900b60800000000000000
+      internalID: 7710337526782268552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 514.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a847cafaff70a4b90800000000000000
+      internalID: -7256979054808763254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 514.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9765dbf61a2bdff30800000000000000
+      internalID: 4611037999931414137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 514.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf49661ecf5443b0800000000000000
+      internalID: -5529189103760224323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 514.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0ce06ed3f9a6380800000000000000
+      internalID: -8977187819008114503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 514.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f5373e1c7059dc0800000000000000
+      internalID: -3632988995078365378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 514.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099b786e1b99e3e60800000000000000
+      internalID: 7943955782084049296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 514.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01cc9061aa46b1b0800000000000000
+      internalID: -5641239426263891702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 514.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e84e84bee22b2ff0800000000000000
+      internalID: -59915761412585248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 514.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e509925df79a020800000000000000
+      internalID: 2353552833779883582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 514.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce4df9941f692b30800000000000000
+      internalID: 4263060656556428994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 514.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f27503531818430800000000000000
+      internalID: 3783447227412197226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 482.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb6f7ef3bcbbd6d0800000000000000
+      internalID: -2964568448438408270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 482.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd8122eb16b42840800000000000000
+      internalID: 5198480100766617087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 482.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5a4e25caa366490800000000000000
+      internalID: -7753445196672227920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 482.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdddda6536ed7d5c0800000000000000
+      internalID: -4190636410007593505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 482.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2709cadf3a689330800000000000000
+      internalID: 3717838314880436012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 482.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7647a9b8c2a8f7080800000000000000
+      internalID: -9187472790887173017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 482.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d5492fdf2d64590800000000000000
+      internalID: -7690227325550174931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 482.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8466a1b8db4bec0800000000000000
+      internalID: -3552005800947463964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 482.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfe867c35ebf5ce0800000000000000
+      internalID: -1414202490933940274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 482.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4b646ac8bc44350800000000000000
+      internalID: 6000144408509854969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 482.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de4d6d7e15558a80800000000000000
+      internalID: -8465266335131283757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 482.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ef1c0f95eb2dfc0800000000000000
+      internalID: -3471503069248618997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ecc990207f9f5c0800000000000000
+      internalID: -4181039190913528250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 450.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1684acaf052ad40800000000000000
+      internalID: 5594122725213364655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 450.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac5957bdb8244850800000000000000
+      internalID: 6360253369043999909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 450.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f439c4de1d8ae1fb0800000000000000
+      internalID: -4675113743581146289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 450.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2f705b9a6a1ef70800000000000000
+      internalID: 9214829560393626308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 450.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f66c36e1f866b20800000000000000
+      internalID: 3127344351941128067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 450.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3551993143696b610800000000000000
+      internalID: 1636660665007019347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 450.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c3fcb3aa2616980800000000000000
+      internalID: -8547442134485091223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 450.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d358cd2daea9610800000000000000
+      internalID: 1628872406611606850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 450.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88dab3f56ca75ec0800000000000000
+      internalID: -3578201825041786741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 450.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe80d7c5e5996cf0800000000000000
+      internalID: -258510689464709391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 450.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c498abba70479e0800000000000000
+      internalID: -1624665131423544272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2739c86b46e61e0f0800000000000000
+      internalID: -1089468256008498318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 418.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a606a2286e3d97a0800000000000000
+      internalID: -6368865681053186395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 418.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48467f3b843f23d70800000000000000
+      internalID: 9021540497159054468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 418.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bd7ca617e7a71f0800000000000000
+      internalID: -1046384937822332145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 418.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ed68d5d51b9ef20800000000000000
+      internalID: 3452485603915390537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 418.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3c9c603493d6880800000000000000
+      internalID: -8616167552050412573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 418.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cb7637840fd7f10800000000000000
+      internalID: 2269233981229087786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 418.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffc67153f1e89570800000000000000
+      internalID: 8473771134057631730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 418.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b17686520e2d9e0800000000000000
+      internalID: -1597968466493105387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 418.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6db1706915c64f0800000000000000
+      internalID: -834202126164175112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 418.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edac536f57e9dd2c0800000000000000
+      internalID: -4405190631019394338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 418.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaddad15fd9acf60800000000000000
+      internalID: 8055424559596034721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e098444b087c4a040800000000000000
+      internalID: 4658067270202067214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 386.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d528c81d6a83160e0800000000000000
+      internalID: -2278477647341387171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 386
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394c6e5e9f9a44d10800000000000000
+      internalID: 2108997416285291667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 386.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578537338425e8490800000000000000
+      internalID: -7742160239348983691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 386.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2563ab90977b00ee0800000000000000
+      internalID: -1296834962200578478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 386.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791477c99721ae950800000000000000
+      internalID: 6479011327451283863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 386.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe850aa489728f00800000000000000
+      internalID: 1117589268236439287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 386.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c612160a6f6d0d0800000000000000
+      internalID: -3398257700119679958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 386.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a73869a43c50730800000000000000
+      internalID: 3964789772089784906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 386.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ede2faa4a2dff580800000000000000
+      internalID: -8791076342919402009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 386.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c602d7bf12ba12c60800000000000000
+      internalID: 7791696992769220716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 386.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372d634be33f758e0800000000000000
+      internalID: -1704626483299429773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5198099959cadb670800000000000000
+      internalID: 8556184625600301333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 354.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6adefef2a36f5f0800000000000000
+      internalID: -723326712583182605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 355
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17b8afd4fb1a6e10800000000000000
+      internalID: 2191594907207513886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 354.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166835ca60d8d8c00800000000000000
+      internalID: 904534159971812961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 354.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db80e7fbeae667990800000000000000
+      internalID: -7388596441838647107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 354.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5328c3cb6f3fab30800000000000000
+      internalID: 4300725901240836957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 354.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a8319aa9bf7ae40800000000000000
+      internalID: 5667775297749224059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 354.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f5b8485f05fb2d0800000000000000
+      internalID: -3260798589772013779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 354.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510dc63a818930c40800000000000000
+      internalID: 5477388803401109525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 354.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2258432d48b83a8e0800000000000000
+      internalID: -1683348433127832286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 354.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6592d2270d5b930800000000000000
+      internalID: 4158459019749054148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 354.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3330a9ab85de6130800000000000000
+      internalID: 3562019151119659834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf325da205e172f0800000000000000
+      internalID: -976747844502143056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_109
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 322.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb727edc3b51e7e0800000000000000
+      internalID: -1738007664200090642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 322.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8112fc44a2f61c590800000000000000
+      internalID: -7655715664219397864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 322.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfcebc2133e975c0800000000000000
+      internalID: -4217089775712153661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 322.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e22fce47c644f010800000000000000
+      internalID: 1221679220758880994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_113
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 322.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb590d701bd7a4f10800000000000000
+      internalID: 2254752762746148284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_114
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 322.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7ee418428c715d0800000000000000
+      internalID: -3091782560052746272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_115
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 322.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e53bd3f048c1db60800000000000000
+      internalID: 7769211013485508071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 322.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34844c5ba6ec043a0800000000000000
+      internalID: -6683114889306421181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_117
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 322.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6c0d371bb8ac3e0800000000000000
+      internalID: -2032658687535823118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_118
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 322.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e2b1b110c169fc0800000000000000
+      internalID: -3488570070276559224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_119
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 322.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ae3749f08835280800000000000000
+      internalID: -9055744825215423887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35200b9eecf251960800000000000000
+      internalID: 7572010914223751763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 290.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3dd0fb415ddc390800000000000000
+      internalID: -7796341094827043892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 290.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21587cd214688e000800000000000000
+      internalID: 65449809095918866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 290.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a55eb54182e6ba0800000000000000
+      internalID: -6093889177879487888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 290.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13aed98bf78029650800000000000000
+      internalID: 6238057778512783921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 290.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfc96ed191a594e0800000000000000
+      internalID: -1975495213658288188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 290.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c9e238863283aa0800000000000000
+      internalID: -6181151556781564822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 290.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313308503bbecc120800000000000000
+      internalID: 2435580652624556819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 290.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b33df5afd8da020800000000000000
+      internalID: 2354694286673656713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 290.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c978a57e6e63dc90800000000000000
+      internalID: -7146246763007411767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 290.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602e9e9453930d6e0800000000000000
+      internalID: -1814887748794195450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_131
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 290.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ed992f57f074eb0800000000000000
+      internalID: -4735799483901026669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a014b7214d04ce0800000000000000
+      internalID: -1422904306406716906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_133
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 258.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23cfca1b64c5b300800000000000000
+      internalID: 267335717188780845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 258.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3a03ceb254b7120800000000000000
+      internalID: 2412598080335553491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 258.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2d007270f433f60800000000000000
+      internalID: 8012835054159975083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 258.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1366208948ac00520800000000000000
+      internalID: 2666353650238121521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_137
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 258.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859dda4247dff10a0800000000000000
+      internalID: -6908524628089644712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_138
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 258.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dc5a215f4a22760800000000000000
+      internalID: 7431683707601538453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_139
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 258.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971ef6ff3cc6f2f50800000000000000
+      internalID: 6858820346568499577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_140
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 258.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d32f97059fabb940800000000000000
+      internalID: 5313033240026489812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_141
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 258.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f32c1aafc94aa340800000000000000
+      internalID: 4875790702843012081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_142
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 258.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fa61367015d43d0800000000000000
+      internalID: -3220829066330984550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_143
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 258.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9479576e9a853ff40800000000000000
+      internalID: 5761045835076179785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e534c812ab6c8a50800000000000000
+      internalID: 6524708304097392101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 226.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aa9e2c3e3ebd550800000000000000
+      internalID: 6186789080490683007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 226.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb36bf6c11ebc640800000000000000
+      internalID: 5101418515176766411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 226.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650905ef68f58ce90800000000000000
+      internalID: -7005244186977857450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 226.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe8de3ae50811680800000000000000
+      internalID: -8786100254057591054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 226.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac93693445c20a7b0800000000000000
+      internalID: -5215119628072240694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 226.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abea3bb63490e10f0800000000000000
+      internalID: -1144467070131130694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 226.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3485a98036851b0800000000000000
+      internalID: -5667671242445405188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 226.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9be59ec2acd27d40800000000000000
+      internalID: 5580765480074210206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 226.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a54cda2a7b6a350800000000000000
+      internalID: 6027707060609899077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 226.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097973ad30e4a42b0800000000000000
+      internalID: -5599577408228845680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 226.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a70a22fdcbcd400800000000000000
+      internalID: 350362537572727317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a160e09894bf8e20800000000000000
+      internalID: 3355098814772961702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_157
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 194.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ba603973d958e10800000000000000
+      internalID: 2199336855055805295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_158
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 194.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6936a84ac0afeff0800000000000000
+      internalID: -4608283941389970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_159
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 194.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e0fb86c161e5e10800000000000000
+      internalID: 2188210780220886585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_160
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 194.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976cc1be780a52e60800000000000000
+      internalID: 7936926423935927929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_161
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 194.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d128cee84af0cfe0800000000000000
+      internalID: -1170660711965646380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 194.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd8b3a0f5ec421a0800000000000000
+      internalID: -6835111426852680250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_163
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 194.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2761171254405dc50800000000000000
+      internalID: 6689257516489053810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 194.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97651bea105bd1120800000000000000
+      internalID: 2386262396406683257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_165
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 194.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8c3648b6afb58e0800000000000000
+      internalID: -1703492694340024125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_166
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 194.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0690f2dfa9fa801a0800000000000000
+      internalID: -6843026553581926048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_167
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 194.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0d5e5dc37d56da0800000000000000
+      internalID: -5952114676213624655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d38e81eb046d820800000000000000
+      internalID: 2942610591739034889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_169
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 162.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaacb8954b168ce0800000000000000
+      internalID: -1403404248150136091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 162.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10be8975facd2b8a0800000000000000
+      internalID: -6290723083836134655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 162.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e31705730cd95ef0800000000000000
+      internalID: -118822007742196762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_172
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 162.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf59d386acb00f50800000000000000
+      internalID: 6845678856965808074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_173
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 162.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041fc39b352d10d20800000000000000
+      internalID: 3243104463715365184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 162.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecb22e4498527ce0800000000000000
+      internalID: -1408966339424240415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_175
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 162.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f8554c25a109d80800000000000000
+      internalID: -8246061974931796170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 162.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4564e4b977e40460800000000000000
+      internalID: 7207139813611562314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_177
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 162.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07074dc2bf03c0e0800000000000000
+      internalID: -2250938128132536561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_178
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 162.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba64411c17bec0b70800000000000000
+      internalID: 8866720640188827307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_179
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 162.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379c0deea029b6330800000000000000
+      internalID: 3705215694096353651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b53694df1263dd0800000000000000
+      internalID: -2506778770843411587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_181
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 130.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3453c6744541ab0800000000000000
+      internalID: -5038309417385901087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_182
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 130.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0d8a81d817ed5b0800000000000000
+      internalID: -5341707257196785497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_183
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 130.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ca2a71c59bf3bc0800000000000000
+      internalID: -3801115755292742576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_184
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 130.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a686d4efca6ab960800000000000000
+      internalID: 7618519160780654247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_185
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 130.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dc19f4b7d7203f0800000000000000
+      internalID: -936047803970237149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_186
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 130.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79273f709938ecec0800000000000000
+      internalID: -3544751163407371625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_187
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 130.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b6ab97c55447750800000000000000
+      internalID: 6301738042079734610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_188
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 130.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11842eb79c713e660800000000000000
+      internalID: 7413795565716260881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_189
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 130.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6db2c63f19e32b60800000000000000
+      internalID: 7720270506515152236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_190
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 130.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6832a351a86c74e80800000000000000
+      internalID: -8194362700613409914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_191
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 130.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d3a111ded5eb210800000000000000
+      internalID: 1350620211033292108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70933af0480d13230800000000000000
+      internalID: 3616901241371834631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 98.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8993ab164f033a280800000000000000
+      internalID: -9033322601405335144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 98.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4870920139afc30800000000000000
+      internalID: 4393986084070458583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 98.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca1b116979676380800000000000000
+      internalID: -8978091362098668861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 98.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf3663c692040890800000000000000
+      internalID: -7492861033491054653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_197
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 98.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cf5a920b56db2f0800000000000000
+      internalID: -955495738645283751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 98.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312e11b35d7128a10800000000000000
+      internalID: 1910115396545012243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_199
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 98.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9184c56acd61d54a0800000000000000
+      internalID: -6603096341715597287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_200
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 98.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa24fbbc8e3f9470800000000000000
+      internalID: 8403504203866319521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_201
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 98.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d334c5fe9dd2f01d0800000000000000
+      internalID: -3382434381084998851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_202
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 98.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706aceb5245f45bc0800000000000000
+      internalID: -3795138920607603193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_203
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 98.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb36429cf6a073670800000000000000
+      internalID: 8518288695426835388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7c3d42442fe42f0800000000000000
+      internalID: -986584893858003034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_205
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 66.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b466401f96d10e470800000000000000
+      internalID: 8421763644035196491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_206
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 66.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7678a2f95dd156010800000000000000
+      internalID: 1181383280590227303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_207
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 66.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3897932e76277d0800000000000000
+      internalID: -2922158986885495899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_208
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 66.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fcb1bf907e96b40800000000000000
+      internalID: 5434128455452839770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_209
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 66.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d424fde40c4c5e10800000000000000
+      internalID: 2187707103050998993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_210
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 66.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0c22ad45c0ba750800000000000000
+      internalID: 6317156460893749479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_211
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 66.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5f0715e2ebfc520800000000000000
+      internalID: 2724605405726569965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_212
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 66.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4436e1fec6d3380800000000000000
+      internalID: -8989909506898836242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_213
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 66.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34daf03740ed86a40800000000000000
+      internalID: 5361779467076218179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_214
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 66.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe7675a041496420800000000000000
+      internalID: 2623700003829743291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_215
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 66.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a92cf0d8ffd137e0800000000000000
+      internalID: -1787401317338306141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3af681b437a5160800000000000000
+      internalID: 7015046135952679868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_217
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 34.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2ac7ab2d08f1c80800000000000000
+      internalID: -8349813541561392394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_218
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 34.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e3b0bb5a5508dc0800000000000000
+      internalID: -3638814328619319689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_219
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 34.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c402d2b75c2e7c10800000000000000
+      internalID: 2053127235301409984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_220
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 34.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df273131c4af7c010800000000000000
+      internalID: 1209210229616767741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_221
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 34.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8855db3d3c4af970800000000000000
+      internalID: 8789421448647497868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_222
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 34.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2a9365c830bd7a0800000000000000
+      internalID: -6351478948199030063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_223
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 34.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb60b2f2c0d06de0800000000000000
+      internalID: -1341843153242526770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_224
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 34.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b67744818060a4d0800000000000000
+      internalID: -3125392032008800583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_225
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 34.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3258027903e16c390800000000000000
+      internalID: -7798512510702680797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_226
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 34.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa95bfdd5e015ec0800000000000000
+      internalID: -3580064432434865499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_227
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 34.85
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8a1fa3fe4e6ccd0800000000000000
+      internalID: -2538089623839463248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_228
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.8499985
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af3ec52ce1025a80800000000000000
+      internalID: -8479713034627039320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_229
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2.8499985
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ede684ed81ae640800000000000000
+      internalID: 5109924070182280770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_230
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2.8499985
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428d3626b23a89430800000000000000
+      internalID: 3789958493161904164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_231
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2.8499985
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82526735728333470800000000000000
+      internalID: 8373097873767015720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_232
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2.8499985
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a883cacd8b0dc90800000000000000
+      internalID: -7147009350715274672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_233
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2.8499985
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5576eb2bcc6bd8b50800000000000000
+      internalID: 6597130019456051029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_234
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2.8499985
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e06eaf99f553fc0800000000000000
+      internalID: -3515798819148788073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_235
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2.8499985
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6883da262826bd0800000000000000
+      internalID: -2638403071361120581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_236
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2.8499985
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4445658582fdb2060800000000000000
+      internalID: 6929877816013378628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_237
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2.8499985
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e2812e49053c5d0800000000000000
+      internalID: -3043500322793705956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_238
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2.8499985
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7fd907bc3bffe00800000000000000
+      internalID: 1080780121941342125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health and Endurance_239
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2.8499985
+        width: 32
+        height: 32.15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb8457da25643f30800000000000000
+      internalID: 4554376357854088167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
